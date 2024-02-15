@@ -22,6 +22,7 @@ In the field of computational pathology, the automated classification of cancer 
 
 **Clustering Workflow Visualization**
 ![Screenshot 2024-02-15 195101](https://github.com/MSPK99/Model-Selection-for-Clustering-Unsupervised-Cancer-Tissues/assets/157824384/8d248e0c-356b-49f1-a15f-3c4d4d658e5f)
+
 *This visualization depicts the workflow of splitting whole slide images into patches and grouping similar patches into the same clusters. It highlights the process from the initial slide image to the extraction of individual patches, followed by clustering using UMAP to visualize and group the data effectively.*
 
 ## Dataset Description
@@ -29,6 +30,7 @@ Our dataset constitutes a rich collection of 5,000 colorectal cancer tissue patc
 
 **Tissue Sample Types from Colorectal Cancer Dataset**
 ![Screenshot 2024-02-15 194643](https://github.com/MSPK99/Model-Selection-for-Clustering-Unsupervised-Cancer-Tissues/assets/157824384/73a9cd4d-4965-4d84-8191-dfa97182a17a)
+
 *This image displays the various tissue types present in the colorectal cancer dataset, which include Adipose (ADI), Background (BACK), Debris (DEB), Lymphocytes (LYM), Mucus (MUC), Smooth Muscle (MUS), Normal Colon Mucosa (NORM), Cancer-Associated Stroma (STR), and Colorectal Adenocarcinoma Epithelium (TUM).*
 In preparation for analysis, we employed advanced image processing techniques to ensure that each patch is normalized and suitable for feature extraction. This process involved resizing images, enhancing contrast, and applying filters to minimize noise and artifacts that could interfere with the learning algorithms.
 
