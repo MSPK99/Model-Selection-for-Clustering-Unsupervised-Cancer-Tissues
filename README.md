@@ -21,6 +21,7 @@ This project aims to apply and evaluate unsupervised learning techniques for the
 In the field of computational pathology, the automated classification of cancer tissue samples is a transformative advancement with the potential to enhance diagnostic precision and expedite the treatment process. Our project focuses on the development and evaluation of unsupervised machine learning algorithms to classify colorectal cancer tissue patches. The dataset consists of 5,000 high-definition images, spanning nine distinct tissue types, each integral to the accurate diagnosis of cancer stages. This study harnesses the power of state-of-the-art convolutional neural networks for feature extraction, subsequently applying clustering techniques to segregate the tissue samples into meaningful groups. Our approach emphasizes the synergy between medical expertise and artificial intelligence, with the overarching goal of providing a robust analytical tool for oncologists and researchers in the domain of colorectal cancer diagnostics.
 
 **Clustering Workflow Visualization**
+
 ![Screenshot 2024-02-15 195101](https://github.com/MSPK99/Model-Selection-for-Clustering-Unsupervised-Cancer-Tissues/assets/157824384/8d248e0c-356b-49f1-a15f-3c4d4d658e5f)
 
 *This visualization depicts the workflow of splitting whole slide images into patches and grouping similar patches into the same clusters. It highlights the process from the initial slide image to the extraction of individual patches, followed by clustering using UMAP to visualize and group the data effectively.*
