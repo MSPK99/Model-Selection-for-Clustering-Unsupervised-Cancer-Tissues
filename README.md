@@ -214,7 +214,7 @@ We extend our heartfelt thanks to all who have played a part in this project's j
 
 ## License
 
-This project is licensed under the MIT License - see the https://github.com/MSPK99/Model-Selection-for-Clustering-Unsupervised-Cancer-Tissues/blob/main/LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MSPK99/Model-Selection-for-Clustering-Unsupervised-Cancer-Tissues/blob/main/LICENSE) file for details.
 
 ## Contact
 
